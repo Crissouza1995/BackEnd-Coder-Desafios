@@ -1,0 +1,47 @@
+[
+  {
+    "title": "manzana grandota",
+    "description": "manzana verde de Paraguay",
+    "price": 340,
+    "thumbnail": "wwww.imagen.com.ar",
+    "code": "A1",
+    "stock": 10,
+    "id": 1
+  },
+  {
+    "title": "Pera",
+    "description": "Pera dulce de estacion",
+    "price": 300,
+    "thumbnail": "www.imagen2.com.ar",
+    "code": "A3",
+    "stock": 20,
+    "id": 2
+  },
+  {
+    "title": "Sandia",
+    "description": "Sandia importada de Brasil",
+    "price": 700,
+    "thumbnail": "www.imagen3.com.ar",
+    "code": "A4",
+    "stock": 50,
+    "id": 3
+  },
+  {
+    "title": "Frutilla",
+    "description": "Frutilla super dulce",
+    "price": 1500,
+    "thumbnail": "www.frutillaroja.com.ar",
+    "code": "A5",
+    "stock": 60,
+    "id": 4
+  },
+  {
+    "title": "Pera",
+    "description": "Pera verde dulce",
+    "price": 1500,
+    "thumbnail": "www.en la pera.com.ar",
+    "code": "A6",
+    "stock": 70,
+    "id": 5
+  }
+]
