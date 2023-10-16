@@ -5,7 +5,7 @@ export default class CartManager {
     #id = 0;
     constructor() {
         // Uso this.path para definir la ruta del archivo
-        this.path = "../src/carts.json";
+        this.path = "carts.json";
         if (!fs.existsSync(this.path)) {
             // si no existe el file lo escribo con un array vacio
             fs.writeFileSync(this.path, JSON.stringify([]));

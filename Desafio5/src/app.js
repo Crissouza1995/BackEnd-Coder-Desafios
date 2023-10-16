@@ -24,8 +24,6 @@ app.engine("handlebars", handlerbars.engine());
 app.set("views", "views/");
 app.set("view engine", "handlebars");
 
-// Directorio publico para files statics
-app.use(express.static("public"));
 
 // Defino mi router de products "/api/products"
 app.use("/api/products", productsRouter);
